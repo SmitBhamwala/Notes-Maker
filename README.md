@@ -6,4 +6,4 @@ Add and delete notes on the go using this app.
 
 
 
-![Notes Maker App](https://github.com/SmitBhamwala/Notes-Maker/blob/main/Notes-Maker.png)
+![Notes Maker App](https://github.com/SmitBhamwala/Notes-Maker/blob/master/Notes-Maker.png)
