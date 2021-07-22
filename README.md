@@ -1,4 +1,4 @@
-# Notes-Maker App built with React
+# Notes-Maker App built with ReactJS
 
 ## Replica of Google's Keep app.
 Add and delete notes on the go using this app.
